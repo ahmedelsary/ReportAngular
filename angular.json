@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ReportAng"
+    }
+  },
+  "defaultProject": "ReportAng",
+  "cli": {
+    "analytics": false
+  }
 }
